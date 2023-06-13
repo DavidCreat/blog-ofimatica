@@ -22,7 +22,7 @@ Puedes acceder a una vista previa del blog en el siguiente enlace: [Blog de Expo
 Aquí te mostramos una pequeña vista previa del blog:
 
 ![Captura de pantalla 1](https://i.ibb.co/jZBx271/img1w.png)
-![Captura de pantalla 2](https://i.ibb.co/QrSvwj4/img2w.png)
+![Captura de pantalla 2](https://i.ibb.co/F4RJ8x3/img4wa.png)
 
 ## Instalación
 
